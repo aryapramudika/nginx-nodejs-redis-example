@@ -1,5 +1,7 @@
 ## Compose sample application
 
+From: [https://github.com/docker/awesome-compose/tree/master/nginx-nodejs-redis](https://github.com/docker/awesome-compose/tree/master/nginx-nodejs-redis)
+
 ## Node.js application with Nginx proxy and Redis database
 
 Project structure:
